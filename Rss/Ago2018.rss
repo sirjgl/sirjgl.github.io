@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+      <title>Rss de Don J L</title>
+     	<link>http://donmeli.5itios.com/Rss/Ago2018.rss</link>
+     	<description>Canal de Sir Jorge</description>
+     	
+     	<item>
+        <title>Mi Sitio</title> 
+        <link>http://donmeli.5itios.com</link>
+        <description>Sitio principal con todos mis objetos digitales</description>
+      </item>
+      
+	   <item>
+			  <title>Jorge Mooo Com</title>
+			  <link>http://sirjorge.mooo.com</link>
+			  <description>Sir Jorge mooo com</description>
+		 </item>
+		 
+      <item>
+      <title>Jorge TK</title>
+          <link>http://jorge.tk</link>
+          <description>Uno de los sitios con dominio TK</description>
+      </item>
+      
+         <item>
+        		<title>Aguascalientes mooo</title>
+        		<link>http://aguascalientes.mooo.com</link>
+            <description>De la red Mooo Com</description>
+        </item>
+
+     <item>
+        		<title>luevano mooo</title>
+        		<link>http://luevano.mooo.com</link>
+       <description>Mi Luévano en la red Mooo Com</description>
+     </item>
+     
+  </channel>
+</rss>

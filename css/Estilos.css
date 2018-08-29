@@ -1,0 +1,139 @@
+* {  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 0px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;
+}
+
+html {  
+  background-color: green;
+}
+
+body {  
+  width: 950px;  
+  margin-left: auto;  
+  margin-right: auto;  
+  margin-top: 20px;
+}
+
+#titulo {  
+  color: red;  
+  text-align: center;  
+  font-family: "Informal Roman";  
+  font-size: 80px;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 40px;  
+  padding-bottom: 20px;  
+  transform: rotate(10deg);  text-shadow: 5px 5px 2px rgb(7, 12, 7);
+}
+
+article {  
+  width: 750px;
+  height: 250px;  
+  margin-top: 50px;  
+  margin-right: auto;  
+  margin-bottom: 30px;  
+  margin-left: auto;  
+  background-color: mediumblue;  -webkit-box-shadow: 5px 5px 5px 3px rgb(78, 96, 78);
+  box-shadow: 5px 5px 5px 3px rgb(78, 96, 78);  -webkit-border-radius: 25px 25px 25px 25px;
+  border-radius: 25px 25px 25px 25px;  
+  padding-top: 0px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;  
+  background-image: -webkit-radial-gradient(rgb(4, 7, 248), rgb(0, 1, 39));
+  background-image: -o-radial-gradient(rgb(4, 7, 248), rgb(0, 1, 39));
+  background-image: -ms-radial-gradient(rgb(4, 7, 248), rgb(0, 1, 39));
+  background-image: -moz-radial-gradient(rgb(4, 7, 248), rgb(0, 1, 39));
+  /* Impossible to translate property background-image for webkit20110101 */
+  background-image: radial-gradient(rgb(4, 7, 248), rgb(0, 1, 39));
+}
+
+#menu {  
+  padding-top: 20px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;
+}
+
+#nombre {  
+  text-align: center;  
+  font-size: 50px;  
+  font-family: "Vladimir Script";  
+  color: yellow;  text-shadow: 7px 7px 2px rgb(5, 10, 5);  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 60px;  
+  margin-left: 0px;  
+  padding-top: 40px;
+}
+
+ul {  
+  text-align: center;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;
+}
+
+li {  
+  list-style-type: none;  
+  display: inline-block;  
+  padding-top: 5px;  
+  padding-right: 5px;  
+  padding-bottom: 5px;  
+  padding-left: 5px;  
+  background-color: red;  
+  color: rgb(255, 255, 102);  
+  border-top-width: 1px;  
+  border-right-width: 1px;  
+  border-bottom-width: 1px;  
+  border-left-width: 1px;  
+  border-top-style: solid;  
+  border-right-style: solid;  
+  border-bottom-style: solid;  
+  border-left-style: solid;  
+  border-top-color: rgb(253, 253, 0);  
+  border-right-color: rgb(253, 253, 0);  
+  border-bottom-color: rgb(253, 253, 0);  
+  border-left-color: rgb(253, 253, 0);
+}
+
+p {  
+  font-size: 8px;  
+  font-weight: bold;  
+  font-family: "Times New Roman", Times, serif;  
+  text-align: center;
+}
+
+h1 {  text-shadow: 7px 7px 2px rgb(48, 68, 49);  
+  font-size: 0px;
+}
+
+a:hover {  
+  text-decoration: underline;  
+  color: rgb(255, 255, 51);
+}
+
+a {  
+  text-decoration: none;  
+  color: rgb(0, 0, 102);
+}
+
+.aarticle {  
+  padding-top: 0px;  
+  padding-right: 0px;  
+  padding-bottom: 0px;  
+  padding-left: 0px;
+}
